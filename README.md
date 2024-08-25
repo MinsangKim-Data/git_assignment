@@ -28,7 +28,12 @@ d. Describe the steps to add a collaborator to a repository (share write permiss
 
 e. What is the difference between git and GitHub?
 
+**Git** is a version control system that allows you to track changes in your files, manage project histories, and collaborate with others. This system operates on your local system/machine.
+
+**Github** is a web-based platform that hosts Git repositories, which allows people from all around the world to contribute to Git projects and repositories online. It also has interesting, helpful features such as pull requests, issue tracking, and project management. 
+
 f. What does git diff do?
+**git diff** without any arguments, shows the differences between your working directory and the staging area (what has changed but not yet staged for commit) So in other words, it shows a readout of changes you have made but not yet staged using **'git add'**.
 
 g. What is the main branch?
 
